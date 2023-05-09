@@ -1,0 +1,159 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://HoodMuseumDartmouth.github.io/PaulSample/manifests/BeaverMeadow-FULL.json",
+  "@type" : "sc:Manifest",
+  "label" : "Paul Sample, Beaver Meadow",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "P-943-126-1_001.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "3937"
+  }, {
+    "label" : "Pixel width",
+    "value" : "4751"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-1223909257"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "8821"
+  }, {
+    "label" : "Object Number",
+    "value" : "P.943.126.1"
+  }, {
+    "label" : "Object Name",
+    "value" : "Painting"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Paul Sample, American, 1896 - 1974"
+  }, {
+    "label" : "Date Label",
+    "value" : "1939"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1939"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1939"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Beaver Meadow"
+  }, {
+    "label" : "Research Area",
+    "value" : "Painting"
+  }, {
+    "label" : "Period",
+    "value" : "20th century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Oil on canvas"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Overall: 40 × 48 1/4 in. (101.6 × 122.6 cm) | Frame: 47 × 55 in. (119.4 × 139.7 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Dartmouth Alumni Artist | Landscape | Regionalism | Church | Carriage | Pastoral | Barn | Norwich, Vermont | Beaver Meadow"
+  }, {
+    "label" : "Exhibition History",
+    "value" : "American Art at Dartmouth: Highlights from the Hood Museum of Art, Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, June 9-December 9, 2007. | American Art, Colonial to Modern, Israel Sack Gallery and Rush Family Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, January 26, 2019-September 12, 2021. | American Paintings from the Dartmouth Collection, 1910-1960, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, January 17-April 12, 1998. | Churchill P. Lathrop Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, in conjunction with the exhibition Looking for America: Prints of Rural Life from the 1930's and 1940's, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, December 3, 1994-March 5, 1995. | Image and Memory: Picturing Old New England, Smithsonian, National Museum of American Art, Washington, DC, April 2, 1999- August 22, 1999. | Images of the Vermont Landscape 1776-1976, Fleming Museum, University of Vermont, Burlington, Vermont, July 15-October 15, 1976. | In Residence: Contemporary Art at Dartmouth, Friends and Owen Robertson Cheatham Galleries, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, January 18-July 6, 2014. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, June 5, 2001-October 9, 2005. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, March 2, 2009-November 2, 2009. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, March 26, 1996-June 22, 1997. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, May 28, 1998-February 21, 1999. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, November 15, 2005-May 8, 2007. | Israel Sack Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, September 16, 1997-January 16, 1998. | Paul Sample, Montshire Museum of Science, Hanover, New Hampshire, April 27-June 1, 1976. | Paul Sample, The Picture Gallery, Saint-Gaudens Memorial, Cornish, New Hampshire, July 2-August 1, 1949, no. 12. | Paul Sample: Ivy League Regionalist, The Lowe Art Museum, Universiy of Miami, Coral Gables, Florida, January 18-February 26, 1984. | Paul Sample: Painter of the American Scene, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, June 4-August 28, 1988. | Recent Paintings by Paul Sample, Native of Kentucky, J.B. Speed Art Museum, Louisville, Kentucky, March 24-April 22, 1951. | The Toledo Museum of Art, Toledo, Ohio, March 29, 2016-June 30, 2018."
+  }, {
+    "label" : "Publication History",
+    "value" : "Truettner, William H. and Stein, Roger B., Picturing Old New England: Image and Memory. Washington, D.C.: National Museum of American Art, Smithsonian Institution, 233 pp., ill. pp. 110 and 124. c. 1999 | Humanities, The Magazine of the National Endowment for the Humanities, July/August 1999, ill. cover and page 2 | Carl Little, Paintings of New England, Camden: Down East Books, 1996, ill. p. 76 | Kim King Zea, Beaver Meadow Chapel on National Register of Historic Places, Museum Muse, Volume 2, Number 1, January-March, 1995, p. 1 | Jay Stevens, Keeper of Vermont Character, Dublin, N.H.: Yankee Magazine, March 1992, ill.p. 81 | Upper Valley Magazine, 1991 | U.S. Air Magazine, \"A Sample of Talent\", page 15 | Vermont Life Magazine, \"Paul Sample, A Regionalist Painter Views Vermont\",Volume XLIII, No. 2, Winter, 1988, South Burlington: The Lane Press, ill. p. 59 | Upper Valley Community Land Trust, Community Lands or Annual Report, or both, 1988/1989 | Robert L. McGrath and Paul F. Glick, Paul Sample: Painter of the American Scene, Hanover: Trustees of Dartmouth College, 1988, no. 32. | 1990 Festival of the Arts: Southern Vermont Art Center, Manchester, Vermont, May 26-October 14, 1990. Illustration, page 19. | American Artist, \"Paul Sample\", April 1942. | Elsie Sniffen, Around the Horn to Norwich, The Norwich times, Fall 2000, Volume 4, Number 1, White River Junction: Dewey's Mills Media, 2000, ill. cover, p. 16. | Justus Bier, \"Paul Sample: A Native of Louisville get a One-Man Exhibition,\" The Courier-Journal Magazine, April 22, 1951, cover illustration. | Sheila Barrett, Catalogue Designer, Harvard University Press-Fall/Winter 2001 Publication Announcement Catalogue, Cambridge, Massachusetts: Harvard University Press, 2001, 89 pp., Cover illustration. | Elizabeth Mankin Kornhauser, General Editor, Marsden Hartley, New Haven and London: Yale University Press, 2002, 334 pp., color ill. p. 178. | Elsie Sniffen, The Good Men Do: A Tribute to the Folks of Beaver Meadow Community, Hardy, Heck, Moore and Associates, 2003, 29 pp., ill. p.21(B&W) and Cover(Color). | Donna M. Cassidy, Marsden Hartley: Race, Religion, and Nation, Hanover and London: University Press of New England, 2005, pp. 43-44, ill. p. 43. | Barbara J. MacAdam, Marks of Distinction, Two Hundred Years of American Drawings and Watercolors from the Hood Museum of Art, Manchester, Vermont: Hudson Hills Press, 2005, pp. 16, ill. p. 16, fig. 8. | Barbara J. MacAdam, American Art at Dartmouth: Highlights from the Hood Muesum of Art, Hanover: Trustees of Dartmouth College, 2007, p. 102-103, no. 78. | Mary Cooper, New England as America: Jose Clemente Orozco's Anglo-America, The Collegiate Journal of Art, Spring 2008, Volume IV, 2008, pp. 82-96, ill. p. 93. | Brian P. Kennedy and Emily Shubert Burke, Modern and Contemporary Art at Dartmouth: Highlights from the Hood Museum of Art, Hanover: Trustees of Dartmouth College, 2009 p.4, Fig.7. | Recent Paintings by Paul Sample, Native of Kentucky, Louisville, Kentucky: J.B. Speed Art Museum Catalogue No. 124, Art Resources of Kentucky Series, 1951, no. 1. | Michael R. Taylor and Gerald Auten, In Residence: Contemporary Artists at Dartmouth, Hanover, New Hampshire: Trustees of Dartmouth College, 2013, ill. p.  33, no. 15 | John R. Stomberg, The Hood Now: Art and Inquiry at Dartmouth, Hanover, New Hampshire: Hood Museum of Art, Dartmouth College, 2019, p. 156, ill. plate no. 87."
+  }, {
+    "label" : "Credit Line",
+    "value" : "Gift of the artist, Class of 1920, in memory of his brother, Donald M. Sample, Class of 1921"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Under Copyright"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/17895/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 145,
+    "width" : 175,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/17895",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/8821/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/8821/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 3937,
+      "width" : 4751,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/17895/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 145,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/17895",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/8821/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/17895/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3937,
+          "width" : 4751,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/17895",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/8821/canvas/0"
+      } ]
+    } ]
+  } ]
+}

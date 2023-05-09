@@ -1,0 +1,13 @@
+{
+  "id" : "https://HoodMuseumDartmouth.github.io/PaulSample/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in HoodMuseumDartmouth/PaulSample project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://HoodMuseumDartmouth.github.io/PaulSample/manifests/BeaverMeadow-FULL.json",
+    "label" : "Paul Sample, Beaver Meadow"
+  } ]
+}

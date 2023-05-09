@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 104,
+    "height" : 86
+  }, {
+    "width" : 207,
+    "height" : 171
+  }, {
+    "width" : 413,
+    "height" : 342
+  }, {
+    "width" : 825,
+    "height" : 684
+  }, {
+    "width" : 1650,
+    "height" : 1367
+  }, {
+    "width" : 3300,
+    "height" : 2734
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3300,
+  "@id" : "https://HoodMuseumDartmouth.github.io/PaulSample/images/RS17895_P-943-126-1_001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2734
+}
